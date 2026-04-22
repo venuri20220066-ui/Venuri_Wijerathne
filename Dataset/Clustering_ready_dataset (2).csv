@@ -1,0 +1,1764 @@
+F1,F2,F3,F4,gender,marital_status,academic_year,academic_failure,age_group,degree_program,faculty_environment,home_environment
+3.3333333333333335,4.0,3.0,2.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.0,3.6666666666666665,2.75,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,2.0,2.0,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+3.0,3.0,2.5,3.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.8333333333333335,4.333333333333333,1.5,4.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.666666666666667,3.6666666666666665,2.25,4.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+2.6666666666666665,1.3333333333333333,3.0,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.5,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.1666666666666665,3.0,2.25,3.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,No
+3.5,3.0,3.25,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.5,3.0,2.0,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.8333333333333335,2.6666666666666665,2.5,3.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.3333333333333335,3.0,3.0,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+2.0,3.0,3.0,1.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+4.166666666666667,4.333333333333333,2.5,4.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+2.6666666666666665,2.0,1.5,2.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+5.0,5.0,1.0,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+4.666666666666667,4.0,3.0,3.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,4.0,2.25,5.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,2.5,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,2.0,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.0,3.0,3.0,2.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.0,2.6666666666666665,2.0,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+2.8333333333333335,3.0,2.25,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+2.1666666666666665,3.3333333333333335,1.75,3.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,No
+3.0,2.3333333333333335,3.0,3.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.666666666666667,3.0,1.5,4.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.1666666666666665,3.0,2.25,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+4.166666666666667,3.6666666666666665,1.0,4.0,Female,Single,Year 4,Never,26 and above,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.0,4.666666666666667,2.5,3.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.166666666666667,4.0,2.25,4.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.25,3.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,4.666666666666667,1.5,3.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+2.6666666666666665,2.0,2.0,3.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.8333333333333335,5.0,2.5,5.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.0,4.0,1.75,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.0,3.3333333333333335,2.75,2.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.166666666666667,3.0,2.0,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.8333333333333335,4.0,2.25,4.0,Male,Single,Year 3,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.25,5.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+2.8333333333333335,4.0,2.0,2.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.5,4.0,1.75,4.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,No
+3.5,3.0,2.5,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.5,3.0,2.75,2.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Economics,Satisfied,No
+3.5,3.6666666666666665,2.75,3.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.1666666666666665,2.0,1.5,2.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+1.6666666666666667,1.0,4.25,2.0,Male,Single,Year 4,Never,20-21,B.B.A. (Hons) in Finance,Very satisfied,No
+3.0,3.3333333333333335,1.75,4.0,Male,Single,Year 2,Never,22-23,,Very satisfied,Yes
+4.166666666666667,4.0,2.0,4.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+2.0,2.3333333333333335,4.0,2.5,Male,Single,Year 2,Never,22-23,,Satisfied,No
+2.5,3.0,2.75,3.5,Male,Single,Year 2,Once or twice,20-21,,Neither satisfied nor dissatisfied,Yes
+4.0,4.666666666666667,1.25,3.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.3333333333333335,2.5,3.0,Female,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,2.6666666666666665,3.25,4.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,3.75,3.0,Female,Single,Year 2,Never,22-23,,Very dissatisfied,Yes
+3.5,2.0,1.5,1.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,1.25,3.0,Female,Single,Year 2,Never,22-23,,Dissatisfied,Yes
+2.6666666666666665,3.0,3.5,3.0,Female,Single,Year 2,Never,22-23,,Dissatisfied,Yes
+3.1666666666666665,3.0,3.0,3.0,Female,Single,Year 2,Never,22-23,,Very satisfied,Yes
+3.3333333333333335,3.0,3.0,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,3.3333333333333335,2.0,3.5,Female,Single,Year 2,Never,22-23,,Dissatisfied,No
+3.3333333333333335,2.6666666666666665,3.5,2.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.75,4.5,Male,Single,Year 2,Never,20-21,,Very satisfied,Yes
+3.5,4.0,2.0,4.0,Female,Single,Year 2,Once or twice,20-21,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.75,3.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.5,3.0,2.75,3.5,Female,Single,Year 1,Never,24-25,,Very satisfied,No
+4.0,4.0,2.25,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.8333333333333335,2.6666666666666665,2.75,3.5,Female,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.6666666666666665,2.5,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+2.0,2.3333333333333335,1.5,3.0,Female,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.833333333333333,5.0,1.0,5.0,Female,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+2.8333333333333335,2.3333333333333335,2.5,3.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,2.0,3.5,4.5,Female,Single,Year 2,Once or twice,20-21,,Satisfied,Yes
+3.6666666666666665,3.0,1.25,1.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.8333333333333335,3.3333333333333335,3.0,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.6666666666666665,3.0,3.25,4.0,Female,Single,Year 2,Never,20-21,,Very dissatisfied,Yes
+5.0,5.0,1.0,5.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,2.3333333333333335,2.0,3.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+2.8333333333333335,3.0,3.0,2.5,Female,Single,Year 2,Never,20-21,,Very dissatisfied,Yes
+3.0,3.0,2.25,3.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+2.6666666666666665,4.0,3.0,2.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+2.8333333333333335,4.333333333333333,3.25,2.5,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+4.0,4.0,2.0,3.5,Female,Single,Year 2,Never,22-23,,Very satisfied,Yes
+4.0,4.0,2.0,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+2.8333333333333335,4.0,2.5,4.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,2.6666666666666665,2.25,1.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.833333333333333,5.0,2.5,4.5,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,1.5,3.0,Female,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.0,1.6666666666666667,4.25,2.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,3.0,2.75,2.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,3.3333333333333335,2.5,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,3.6666666666666665,2.75,3.5,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.0,4.333333333333333,2.5,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.1666666666666665,3.0,3.0,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.5,3.3333333333333335,1.75,1.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.8333333333333335,3.3333333333333335,2.0,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+2.6666666666666665,3.0,3.0,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.8333333333333335,3.0,4.0,4.0,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,No
+3.3333333333333335,3.6666666666666665,2.5,4.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 2,Once or twice,20-21,,Satisfied,Yes
+2.5,3.6666666666666665,2.5,4.0,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.6666666666666665,3.0,2.75,1.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,No
+3.1666666666666665,3.6666666666666665,3.5,4.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+5.0,5.0,1.5,1.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+5.0,4.0,1.25,4.5,Female,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.0,2.5,3.0,Female,Single,Year 2,Never,20-21,,Dissatisfied,Yes
+3.1666666666666665,3.6666666666666665,3.0,1.0,Female,Single,Year 2,Never,20-21,,Very satisfied,Yes
+3.0,2.6666666666666665,3.0,3.5,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+2.6666666666666665,2.6666666666666665,1.75,4.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 2,Once or twice,24-25,,Neither satisfied nor dissatisfied,No
+2.5,3.0,2.75,1.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.833333333333333,3.6666666666666665,4.5,3.5,Male,Single,Year 2,Three or more times,22-23,,Very dissatisfied,Yes
+3.1666666666666665,3.0,1.25,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.6666666666666665,3.0,2.0,3.0,Female,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+2.5,3.0,1.75,3.5,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.3333333333333335,2.25,4.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,1.5,2.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.5,2.3333333333333335,1.5,3.0,Female,Single,Year 2,Never,20-21,,Very satisfied,Yes
+3.0,3.0,2.25,3.0,Female,Single,Year 2,Never,20-21,,Very satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 2,Never,22-23,,Very satisfied,Yes
+3.3333333333333335,3.0,3.0,2.5,Female,Single,Year 2,Once or twice,20-21,,Satisfied,Yes
+3.1666666666666665,4.0,2.25,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.5,3.3333333333333335,1.75,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.0,5.0,1.75,1.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,2.6666666666666665,2.75,2.0,Female,Single,Year 2,Never,20-21,,Very satisfied,Yes
+3.5,2.6666666666666665,2.0,1.5,Female,Single,Year 1,Never,22-23,,Satisfied,Yes
+4.166666666666667,3.0,1.0,3.0,Female,Single,Year 2,Never,22-23,,Very satisfied,Yes
+2.6666666666666665,4.0,2.25,2.0,Male,Single,Year 2,Never,22-23,,Dissatisfied,Yes
+4.833333333333333,4.333333333333333,2.5,4.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+4.833333333333333,4.333333333333333,2.75,3.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.0,1.3333333333333333,2.75,2.0,Female,Single,Year 1,Never,24-25,,Satisfied,Yes
+3.8333333333333335,4.333333333333333,1.75,4.0,Male,Married,Year 4,Once or twice,26 and above,B.B.A. (Hons) in Finance,Very satisfied,Yes
+4.0,5.0,3.0,2.0,Male,Single,Year 1,Never,22-23,,Satisfied,Yes
+4.666666666666667,3.6666666666666665,2.25,4.0,Female,Single,Year 2,Never,22-23,,Dissatisfied,Yes
+3.3333333333333335,3.0,1.5,4.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Very satisfied,No
+3.8333333333333335,4.666666666666667,3.0,2.5,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.75,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.1666666666666665,3.0,3.0,3.5,Male,Single,Year 2,Never,20-21,,Satisfied,No
+3.1666666666666665,3.0,3.25,3.5,Male,Single,Year 2,Never,22-23,,Satisfied,No
+3.0,3.0,2.75,3.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,3.0,3.0,3.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+4.5,2.6666666666666665,2.0,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+5.0,5.0,2.0,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.5,4.0,3.5,2.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,2.25,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.25,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,3.6666666666666665,3.25,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,3.3333333333333335,2.0,4.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+4.5,4.333333333333333,2.0,4.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,3.0,1.75,1.5,Female,Single,Year 1,Once or twice,20-21,,Very satisfied,Yes
+4.166666666666667,3.3333333333333335,2.75,2.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,4.0,1.75,3.5,Male,Divorced,Year 1,Never,20-21,,Very satisfied,Yes
+4.0,3.6666666666666665,2.75,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.0,3.0,2.75,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,2.6666666666666665,3.25,3.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,4.0,1.75,4.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.0,2.25,3.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,2.6666666666666665,2.75,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.3333333333333335,4.666666666666667,3.75,4.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+1.0,2.3333333333333335,4.25,1.0,Male,Single,Year 1,Three or more times,20-21,,Very satisfied,Yes
+5.0,5.0,1.0,5.0,Male,Single,Year 1,Never,20-21,,Very satisfied,No
+3.8333333333333335,4.0,3.0,4.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,4.333333333333333,2.75,3.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.166666666666667,3.6666666666666665,2.25,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.333333333333333,1.75,4.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,4.666666666666667,3.25,2.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.0,3.0,2.25,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.5,4.0,2.0,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,3.6666666666666665,2.25,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,2.0,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.75,3.0,Male,Single,Year 1,Once or twice,20-21,,Satisfied,Yes
+3.0,2.0,2.25,4.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,4.0,2.5,1.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,4.0,1.75,3.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,4.333333333333333,2.75,3.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.0,3.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,3.3333333333333335,2.0,2.5,Male,Single,Year 1,Never,20-21,,Satisfied,No
+3.0,3.0,3.0,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.0,2.0,3.5,Female,Single,Year 1,Once or twice,20-21,,Satisfied,Yes
+3.5,5.0,2.75,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,1.6666666666666667,2.0,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,1.75,2.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.6666666666666665,2.3333333333333335,1.5,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.3333333333333335,1.5,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,1.3333333333333333,1.75,2.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,4.0,2.0,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.0,1.0,1.5,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.6666666666666665,2.0,1.5,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,4.0,3.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,4.333333333333333,1.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+2.6666666666666665,3.3333333333333335,1.25,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+5.0,5.0,1.0,3.5,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.5,2.6666666666666665,2.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,1.0,1.0,2.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,4.0,2.0,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,4.333333333333333,1.75,4.5,Male,Single,Year 1,Never,20-21,,Satisfied,No
+3.6666666666666665,2.6666666666666665,1.5,2.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+5.0,5.0,1.0,5.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.5,1.0,2.0,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.333333333333333,1.0,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.25,3.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,5.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,2.6666666666666665,1.5,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,5.0,1.5,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.0,2.0,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.5,4.333333333333333,1.5,5.0,Female,Single,Year 1,Never,22-23,,Very satisfied,Yes
+3.6666666666666665,2.6666666666666665,3.0,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.0,2.25,3.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.8333333333333335,4.0,2.5,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,1.6666666666666667,2.75,3.5,Female,Single,Year 1,Once or twice,20-21,,Dissatisfied,Yes
+3.8333333333333335,3.3333333333333335,2.75,1.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,4.333333333333333,1.0,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.5,3.0,3.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.6666666666666665,2.0,1.75,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.0,1.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,2.3333333333333335,2.75,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.6666666666666665,2.0,3.0,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.666666666666667,3.3333333333333335,1.5,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.5,3.3333333333333335,1.75,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.0,1.5,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,2.6666666666666665,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,2.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.6666666666666665,1.75,4.5,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.5,4.0,3.0,3.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.333333333333333,2.3333333333333335,3.0,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.3333333333333335,2.6666666666666665,2.5,2.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,4.0,1.0,4.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.0,4.333333333333333,1.0,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.6666666666666665,2.75,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,1.0,1.5,4.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.8333333333333335,3.0,2.25,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,2.6666666666666665,1.75,3.0,Female,Single,Year 1,Never,22-23,,Satisfied,Yes
+4.333333333333333,4.333333333333333,2.75,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,1.75,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.25,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,4.0,3.25,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,No
+2.8333333333333335,2.0,1.75,1.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.5,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,3.3333333333333335,2.25,4.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,5.0,3.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.6666666666666665,2.25,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,3.6666666666666665,2.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,2.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.3333333333333335,1.25,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.0,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.333333333333333,1.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,3.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,3.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.6666666666666665,2.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,2.6666666666666665,2.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,4.333333333333333,2.0,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.6666666666666665,2.5,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.0,1.75,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,3.0,2.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.0,3.5,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.6666666666666665,2.5,5.0,Male,Single,Year 1,Never,20-21,,Very satisfied,No
+3.1666666666666665,3.0,2.75,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.6666666666666665,2.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.0,3.0,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.1666666666666665,3.3333333333333335,2.0,3.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.0,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 1,Once or twice,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,2.25,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,1.6666666666666667,1.5,1.5,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.1666666666666665,3.3333333333333335,2.5,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,No
+3.0,3.0,3.0,2.5,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.666666666666667,4.333333333333333,2.0,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,4.666666666666667,1.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.3333333333333335,3.0,3.5,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,No
+3.1666666666666665,2.6666666666666665,3.0,3.5,Male,Single,Year 1,Never,20-21,,Dissatisfied,Yes
+3.3333333333333335,4.0,2.25,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,No
+2.5,4.0,2.25,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,3.0,2.5,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,4.333333333333333,1.75,5.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.833333333333333,3.6666666666666665,1.25,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.0,2.5,3.0,Male,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,3.0,1.75,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.5,4.333333333333333,3.25,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,4.333333333333333,1.75,1.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,2.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,5.0,1.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,2.5,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,2.5,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.0,1.75,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,3.6666666666666665,1.0,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.666666666666667,4.333333333333333,1.0,5.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.8333333333333335,1.6666666666666667,1.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+1.8333333333333333,1.0,3.75,5.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.0,2.5,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.0,2.75,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.3333333333333335,2.75,2.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,2.6666666666666665,2.0,1.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,4.0,2.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,1.6666666666666667,2.25,4.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,4.333333333333333,1.75,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+1.0,1.0,5.0,1.0,Female,Single,Year 4,Never,20-21,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.0,3.0,3.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,3.3333333333333335,2.75,3.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,No
+4.0,3.0,1.0,5.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,5.0,2.5,4.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,No
+3.8333333333333335,3.3333333333333335,2.25,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.666666666666667,4.333333333333333,2.0,5.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,2.6666666666666665,2.5,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,3.3333333333333335,1.25,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.0,3.0,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,2.6666666666666665,1.5,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,4.333333333333333,1.75,4.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.5,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,5.0,1.0,5.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+5.0,5.0,1.0,5.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 1,Once or twice,20-21,,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,2.0,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,2.6666666666666665,3.0,2.5,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,No
+3.5,2.6666666666666665,1.25,3.0,Female,Single,Year 1,Never,22-23,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,1.6666666666666667,2.5,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.0,1.5,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+1.6666666666666667,1.0,2.0,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,2.5,4.0,Female,Single,Year 2,Once or twice,20-21,,Dissatisfied,No
+3.0,3.0,3.0,3.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,2.0,3.5,2.5,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.8333333333333335,3.3333333333333335,2.25,4.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.6666666666666665,2.0,2.0,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,3.6666666666666665,3.75,2.5,Male,Single,Year 1,Never,20-21,,Dissatisfied,No
+3.0,5.0,1.5,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+5.0,5.0,1.0,2.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.666666666666667,3.6666666666666665,1.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.75,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.6666666666666665,2.75,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.0,4.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,2.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,4.333333333333333,2.75,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.5,3.3333333333333335,3.0,3.5,Female,Single,Year 1,Once or twice,20-21,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.0,3.0,4.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,2.0,3.0,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Divorced,Year 4,Three or more times,26 and above,B.B.A. (Hons) in Accounting,Very dissatisfied,No
+4.166666666666667,3.6666666666666665,3.5,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.3333333333333335,1.75,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,2.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.0,2.0,1.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.0,2.75,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.3333333333333335,3.0,3.5,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.0,2.0,4.0,1.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.0,4.666666666666667,1.75,5.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.1666666666666665,2.6666666666666665,2.25,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,3.3333333333333335,3.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,4.0,2.25,3.5,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.5,3.6666666666666665,1.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.6666666666666665,1.0,1.5,Male,Single,Year 1,Once or twice,20-21,,Satisfied,Yes
+3.0,3.6666666666666665,3.5,2.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,No
+2.3333333333333335,3.6666666666666665,1.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.0,1.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+5.0,5.0,1.0,5.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.3333333333333335,2.75,3.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,4.666666666666667,1.75,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.3333333333333335,3.0,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.0,1.75,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.6666666666666665,5.0,1.5,4.5,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.0,4.0,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.0,4.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,2.6666666666666665,1.25,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+5.0,5.0,1.0,5.0,Male,Single,Year 1,Never,22-23,,Satisfied,Yes
+5.0,4.666666666666667,2.75,3.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,1.6666666666666667,2.0,2.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.6666666666666665,1.25,2.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,4.0,2.5,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.6666666666666665,3.0,2.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,2.5,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,4.0,1.75,5.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.6666666666666665,4.0,1.75,3.5,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.3333333333333335,4.0,2.5,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,2.6666666666666665,1.75,5.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,3.0,2.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,3.0,2.75,1.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.0,4.333333333333333,2.25,5.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.6666666666666665,2.75,3.5,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.8333333333333335,3.6666666666666665,2.75,4.0,Male,Single,Year 1,Once or twice,20-21,,Satisfied,Yes
+3.3333333333333335,1.6666666666666667,3.0,4.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,3.3333333333333335,1.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,4.0,2.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.3333333333333335,2.25,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.6666666666666665,2.25,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,4.333333333333333,2.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.3333333333333335,3.3333333333333335,2.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.5,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+5.0,5.0,1.0,5.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.5,2.0,3.5,3.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,2.3333333333333335,3.0,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.1666666666666665,3.3333333333333335,2.5,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.0,2.5,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,2.3333333333333335,1.5,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,2.0,2.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.3333333333333335,2.25,4.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,4.0,1.0,4.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,4.333333333333333,1.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.6666666666666665,2.75,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.6666666666666665,4.0,2.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.6666666666666665,4.0,5.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,No
+3.6666666666666665,2.3333333333333335,2.5,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,No
+4.833333333333333,4.666666666666667,4.0,3.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.0,3.0,2.25,4.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,1.25,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,2.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,4.0,2.5,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,1.75,4.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.6666666666666665,2.25,3.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,No
+1.1666666666666667,1.0,5.0,1.0,Male,Single,Year 1,Never,20-21,,Dissatisfied,Yes
+3.0,3.3333333333333335,3.5,4.0,Male,Single,Year 1,Once or twice,20-21,,Very satisfied,Yes
+2.0,4.666666666666667,1.75,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,No
+3.6666666666666665,3.0,2.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.0,3.0,3.5,Female,Single,Year 1,Once or twice,20-21,,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.3333333333333335,1.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,2.3333333333333335,2.75,1.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,3.3333333333333335,3.0,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.0,1.6666666666666667,1.0,3.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+5.0,1.0,5.0,3.5,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.6666666666666665,3.0,3.0,2.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.0,2.0,3.25,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,4.0,1.5,5.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.8333333333333335,3.6666666666666665,1.5,4.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,1.5,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.6666666666666665,4.0,2.5,3.0,Female,Single,Year 1,Once or twice,20-21,,Satisfied,Yes
+2.5,2.3333333333333335,3.25,2.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,1.3333333333333333,3.75,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,5.0,1.5,1.5,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,No
+2.6666666666666665,3.0,2.25,4.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.5,4.0,2.5,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+2.8333333333333335,3.6666666666666665,1.5,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.6666666666666665,2.5,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,4.0,2.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,3.0,2.75,4.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.5,4.666666666666667,2.25,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.0,2.0,4.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.25,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.6666666666666665,2.0,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,4.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.1666666666666665,2.3333333333333335,2.5,4.0,Male,Single,Year 4,Never,20-21,B.B.A. (Hons) in International Business,Satisfied,Yes
+2.6666666666666665,2.0,1.5,3.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,No
+4.5,5.0,2.5,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,4.0,3.0,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+2.8333333333333335,3.0,1.0,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.0,2.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,2.5,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,4.0,2.75,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.3333333333333335,3.75,2.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,3.6666666666666665,2.0,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.0,2.5,1.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.0,2.25,3.5,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.6666666666666665,1.5,3.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.5,5.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.8333333333333335,3.0,3.0,3.5,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.0,3.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.0,2.75,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+5.0,4.666666666666667,1.75,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,2.0,1.5,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,4.0,2.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,2.6666666666666665,2.5,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,3.0,1.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,3.0,1.25,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.3333333333333335,1.75,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.3333333333333335,1.25,3.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,4.0,2.5,4.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,No
+2.8333333333333335,2.0,3.75,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,4.333333333333333,3.75,2.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.0,2.0,1.75,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.75,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.666666666666667,1.25,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,4.333333333333333,3.0,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,3.0,2.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.25,2.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.0,3.3333333333333335,4.0,3.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.0,3.0,2.25,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.0,2.5,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.3333333333333335,2.75,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,4.0,2.25,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,2.5,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,3.3333333333333335,2.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,4.0,1.25,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.1666666666666665,3.0,1.5,2.5,Male,Single,Year 1,Never,20-21,,Satisfied,No
+3.1666666666666665,3.0,2.0,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.1666666666666665,2.3333333333333335,1.5,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.0,2.0,4.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.1666666666666665,3.0,2.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.0,1.25,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.0,4.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.1666666666666665,4.666666666666667,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.0,3.6666666666666665,2.25,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.0,3.0,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.833333333333333,3.6666666666666665,3.5,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,2.6666666666666665,2.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,No
+2.6666666666666665,3.0,1.75,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.0,1.5,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.3333333333333335,2.25,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.6666666666666665,2.75,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.0,2.25,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.3333333333333335,2.6666666666666665,2.0,2.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,3.3333333333333335,2.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.6666666666666665,1.5,2.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.6666666666666665,2.0,1.5,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+5.0,4.333333333333333,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,4.0,2.5,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.0,3.25,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+5.0,4.333333333333333,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,2.75,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.0,2.5,2.5,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.0,2.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.6666666666666665,2.3333333333333335,2.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.3333333333333335,2.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,4.0,2.75,5.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.666666666666667,5.0,2.5,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,2.0,1.5,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,3.0,2.5,4.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.6666666666666665,2.25,5.0,Male,Divorced,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.5,4.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.666666666666667,5.0,1.25,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,1.3333333333333333,4.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.1666666666666665,4.333333333333333,2.25,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,3.6666666666666665,2.25,4.0,Female,Single,Year 1,Once or twice,24-25,,Dissatisfied,No
+3.8333333333333335,3.0,2.5,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.0,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.0,2.0,4.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,4.0,1.25,4.0,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,2.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,3.6666666666666665,3.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.333333333333333,2.0,4.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.0,2.0,4.0,2.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.0,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,4.0,2.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.0,1.5,2.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,2.3333333333333335,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.0,1.75,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+5.0,5.0,1.0,4.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,2.3333333333333335,1.75,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,4.333333333333333,2.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.5,4.333333333333333,1.75,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.3333333333333335,1.75,4.5,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,3.6666666666666665,1.75,4.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.0,3.3333333333333335,1.25,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.3333333333333335,2.25,2.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.333333333333333,2.6666666666666665,3.75,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.666666666666667,4.0,2.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.333333333333333,1.75,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,4.0,1.5,4.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,2.6666666666666665,1.25,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,4.0,2.0,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.3333333333333335,1.0,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.5,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,2.75,3.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.0,4.666666666666667,1.75,3.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.3333333333333335,3.3333333333333335,2.0,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,2.6666666666666665,1.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.3333333333333335,3.3333333333333335,2.5,2.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,3.0,2.75,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,2.25,4.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.0,3.0,4.5,2.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.3333333333333335,1.75,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,5.0,1.0,5.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.0,2.25,3.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,2.0,1.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.0,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.0,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,2.3333333333333335,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,3.6666666666666665,2.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.666666666666667,4.333333333333333,1.75,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+4.5,4.666666666666667,1.5,5.0,Female,Single,Year 1,Never,22-23,,Satisfied,Yes
+4.0,2.6666666666666665,2.75,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.0,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+1.8333333333333333,2.6666666666666665,1.5,2.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,4.0,3.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,2.6666666666666665,1.25,2.5,Female,Single,Year 1,Once or twice,20-21,,Very satisfied,Yes
+3.0,2.6666666666666665,3.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.8333333333333335,4.0,1.5,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,5.0,1.25,4.5,Male,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,5.0,1.25,4.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,5.0,1.0,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.0,4.333333333333333,1.5,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.0,3.6666666666666665,3.25,3.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.1666666666666665,3.0,3.0,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,4.0,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,4.0,3.25,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,1.5,4.0,Female,Single,Year 1,Never,22-23,,Satisfied,Yes
+3.3333333333333335,2.3333333333333335,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,2.0,3.75,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,2.0,2.75,3.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,4.0,2.0,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.5,4.0,3.25,4.0,Female,Single,Year 1,Never,20-21,,Dissatisfied,No
+3.3333333333333335,4.0,2.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.75,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,4.0,2.0,3.0,Female,Single,Year 1,Once or twice,20-21,,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,1.5,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.833333333333333,4.0,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.0,2.6666666666666665,1.25,1.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,2.25,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+2.8333333333333335,2.6666666666666665,2.25,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.666666666666667,1.5,5.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,1.3333333333333333,2.25,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.5,4.333333333333333,1.25,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,5.0,1.0,4.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.0,2.5,1.5,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.8333333333333335,2.3333333333333335,2.5,2.0,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.8333333333333335,4.666666666666667,1.25,4.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.0,4.0,2.0,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.1666666666666665,2.6666666666666665,1.75,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.1666666666666665,3.0,1.0,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,2.3333333333333335,2.0,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.333333333333333,3.6666666666666665,1.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,1.6666666666666667,1.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.1666666666666665,4.0,1.25,2.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.166666666666667,2.6666666666666665,2.0,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,No
+2.8333333333333335,2.3333333333333335,2.0,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+2.8333333333333335,2.0,1.75,3.5,Female,Single,Year 1,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.0,1.75,2.0,Female,Single,Year 1,Never,20-21,,Very satisfied,No
+5.0,5.0,1.5,5.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,1.5,2.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.0,2.0,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.6666666666666665,2.6666666666666665,1.5,1.5,Female,Single,Year 1,Never,20-21,,Very satisfied,No
+3.1666666666666665,2.3333333333333335,3.25,4.0,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.333333333333333,4.0,2.25,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.666666666666667,5.0,2.0,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.0,2.6666666666666665,2.75,3.0,Male,Single,Year 1,Never,22-23,,Satisfied,Yes
+2.6666666666666665,3.3333333333333335,2.75,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.0,4.333333333333333,2.25,4.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+4.166666666666667,1.3333333333333333,1.0,2.5,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,1.6666666666666667,1.5,3.0,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.0,4.5,Female,Single,Year 1,Never,20-21,,Satisfied,No
+3.3333333333333335,2.3333333333333335,1.75,2.5,Female,Single,Year 1,Never,20-21,,Satisfied,No
+4.666666666666667,4.0,2.0,5.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.0,1.5,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.5,3.0,2.0,3.5,Male,Single,Year 1,Never,20-21,,Very satisfied,Yes
+4.0,2.0,2.0,2.0,Female,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,4.0,2.25,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,4.333333333333333,3.5,3.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.6666666666666665,2.5,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+4.0,2.3333333333333335,1.25,3.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.333333333333333,4.0,2.5,4.5,Female,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.166666666666667,5.0,3.5,2.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+3.5,4.666666666666667,3.5,2.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,No
+4.5,5.0,4.5,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+3.5,5.0,2.5,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.0,5.0,4.25,4.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+4.0,5.0,3.0,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.0,4.0,2.0,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.0,5.0,3.0,1.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+4.5,4.666666666666667,2.25,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.166666666666667,4.666666666666667,3.0,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Neither satisfied nor dissatisfied,Yes
+5.0,5.0,1.0,5.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Neither satisfied nor dissatisfied,Yes
+5.0,4.0,2.5,3.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.5,4.666666666666667,2.5,2.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+4.5,4.0,3.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.833333333333333,2.3333333333333335,2.0,1.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.0,4.0,4.0,5.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Human Resource Management,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,3.0,2.25,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+3.3333333333333335,3.6666666666666665,2.75,5.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+3.8333333333333335,4.0,2.25,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+4.333333333333333,4.666666666666667,1.75,3.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Very satisfied,Yes
+4.666666666666667,4.0,2.0,5.0,Male,Single,Year 1,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.5,4.666666666666667,3.0,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.666666666666667,3.0,4.0,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Dissatisfied,No
+4.166666666666667,4.333333333333333,3.0,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,No
+4.166666666666667,3.3333333333333335,3.0,4.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Dissatisfied,Yes
+3.5,3.3333333333333335,2.0,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,4.25,3.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Neither satisfied nor dissatisfied,No
+5.0,2.6666666666666665,3.5,5.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,2.6666666666666665,1.0,4.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+5.0,5.0,3.25,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+2.8333333333333335,3.0,2.25,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+3.0,2.6666666666666665,2.75,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.666666666666667,4.666666666666667,3.25,5.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.3333333333333335,3.0,2.0,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.1666666666666665,3.0,2.25,2.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.333333333333333,1.0,2.25,5.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+5.0,4.0,3.5,5.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+4.333333333333333,4.666666666666667,2.25,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.0,2.5,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.166666666666667,4.0,1.75,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,4.0,2.5,2.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,4.0,2.0,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Neither satisfied nor dissatisfied,No
+4.5,5.0,2.25,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.0,4.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Neither satisfied nor dissatisfied,Yes
+4.0,3.3333333333333335,2.0,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.0,3.0,2.0,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.5,3.6666666666666665,2.75,2.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+3.5,3.3333333333333335,2.5,3.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.0,2.6666666666666665,2.0,4.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+2.6666666666666665,3.6666666666666665,2.25,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+2.8333333333333335,5.0,2.0,5.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+4.666666666666667,3.6666666666666665,3.5,4.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+2.1666666666666665,2.3333333333333335,1.75,4.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+2.3333333333333335,4.0,1.75,4.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+2.8333333333333335,2.6666666666666665,1.25,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.6666666666666665,2.6666666666666665,1.75,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.0,3.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.1666666666666665,4.0,1.5,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+4.0,4.0,3.0,4.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+4.666666666666667,5.0,1.5,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.0,2.3333333333333335,2.5,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+4.0,3.3333333333333335,3.0,3.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.1666666666666665,3.0,2.25,3.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.5,3.3333333333333335,2.5,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+2.6666666666666665,3.3333333333333335,3.25,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.0,2.3333333333333335,3.25,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,No
+2.1666666666666665,3.6666666666666665,2.0,2.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.0,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+3.6666666666666665,4.0,1.75,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,2.0,2.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.0,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+3.3333333333333335,4.0,2.75,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.0,3.0,2.5,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.0,3.0,2.25,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.0,3.6666666666666665,1.75,4.0,Male,Single,Year 3,Never,20-21,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+2.1666666666666665,2.0,2.0,2.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,3.3333333333333335,2.0,2.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.666666666666667,3.6666666666666665,2.5,2.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,No
+4.333333333333333,3.6666666666666665,2.25,1.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.0,4.666666666666667,2.25,1.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+4.166666666666667,3.0,2.75,2.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+4.666666666666667,3.6666666666666665,2.75,1.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+5.0,5.0,4.75,1.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+4.5,4.333333333333333,3.0,2.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.166666666666667,4.333333333333333,2.5,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+5.0,4.333333333333333,2.75,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+4.166666666666667,4.0,2.0,4.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.8333333333333335,1.6666666666666667,3.0,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.6666666666666665,4.0,1.75,4.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,No
+4.0,4.666666666666667,3.5,4.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+4.0,4.0,3.0,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+3.5,3.0,2.25,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.0,4.0,1.25,3.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,Yes
+2.3333333333333335,3.0,2.25,5.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.6666666666666665,4.333333333333333,3.0,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+4.5,4.333333333333333,2.5,3.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.5,3.0,2.75,4.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,No
+5.0,4.0,4.0,4.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,No
+3.8333333333333335,2.3333333333333335,1.5,3.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.333333333333333,3.6666666666666665,1.5,3.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.333333333333333,3.6666666666666665,2.75,4.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.5,3.3333333333333335,3.0,1.0,Female,Married,Year 4,Once or twice,26 and above,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.5,4.0,2.0,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.166666666666667,4.0,2.5,4.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+2.8333333333333335,1.0,2.0,1.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.0,2.25,3.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.333333333333333,4.0,2.0,1.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+4.0,3.6666666666666665,2.75,2.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,No
+3.5,4.0,3.5,1.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,Yes
+4.5,3.0,2.5,2.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,4.333333333333333,2.5,4.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.3333333333333335,4.0,2.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,Yes
+2.8333333333333335,2.0,2.25,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.5,5.0,2.25,3.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+2.5,2.6666666666666665,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,3.5,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+3.8333333333333335,3.3333333333333335,2.25,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.333333333333333,3.6666666666666665,2.25,5.0,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+2.6666666666666665,2.0,2.5,4.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.0,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.0,3.0,2.25,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+3.5,4.333333333333333,2.75,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.8333333333333335,4.0,2.5,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Neither satisfied nor dissatisfied,No
+3.3333333333333335,4.0,3.75,2.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Dissatisfied,Yes
+3.5,4.0,2.5,4.0,Male,Single,Year 1,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,2.3333333333333335,1.25,5.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Administration,Very satisfied,Yes
+3.3333333333333335,3.6666666666666665,1.25,3.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.833333333333333,4.333333333333333,2.5,4.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,2.25,2.5,Female,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,No
+4.333333333333333,4.333333333333333,1.75,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,No
+4.666666666666667,4.333333333333333,2.5,4.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.0,3.0,3.0,3.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.5,3.0,3.0,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,4.333333333333333,2.0,3.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.0,3.6666666666666665,2.0,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.3333333333333335,2.5,4.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.8333333333333335,3.0,2.5,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,3.0,2.5,3.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,2.75,3.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.5,4.0,2.0,3.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.0,3.3333333333333335,2.5,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+5.0,4.666666666666667,1.5,5.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Finance,Dissatisfied,Yes
+4.833333333333333,4.666666666666667,3.0,4.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.6666666666666665,3.25,4.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.833333333333333,5.0,3.25,4.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+4.666666666666667,4.0,3.0,1.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+4.333333333333333,5.0,1.75,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,No
+3.6666666666666665,5.0,2.0,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Very dissatisfied,Yes
+4.833333333333333,4.666666666666667,2.25,5.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+4.666666666666667,5.0,3.25,5.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.333333333333333,3.0,3.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.666666666666667,2.75,3.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Finance,Dissatisfied,Yes
+4.833333333333333,4.0,2.5,3.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,4.0,1.75,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.166666666666667,5.0,2.25,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.333333333333333,4.666666666666667,2.25,4.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.5,5.0,2.5,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+4.166666666666667,5.0,2.75,3.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.666666666666667,3.6666666666666665,2.75,4.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+3.5,5.0,2.25,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.833333333333333,4.666666666666667,3.0,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+5.0,5.0,3.0,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.5,5.0,2.25,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+4.5,5.0,2.25,4.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+3.3333333333333335,4.333333333333333,1.75,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+3.8333333333333335,4.0,2.0,2.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+4.166666666666667,4.0,1.75,2.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+4.0,5.0,3.0,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+4.333333333333333,4.333333333333333,2.75,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+5.0,4.333333333333333,4.75,5.0,Male,Single,Year 3,Three or more times,24-25,B.B.A. (Hons) in Human Resource Management,Neither satisfied nor dissatisfied,No
+4.5,5.0,3.0,1.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+4.333333333333333,5.0,2.75,5.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.166666666666667,4.666666666666667,2.25,2.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.5,4.0,2.5,3.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,No
+4.666666666666667,4.333333333333333,4.25,4.5,Male,Single,Year 4,Once or twice,26 and above,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.166666666666667,4.333333333333333,3.0,3.0,Male,Single,Year 3,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+4.0,4.333333333333333,3.0,1.5,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Human Resource Management,Satisfied,No
+4.0,4.333333333333333,3.75,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Human Resource Management,Dissatisfied,Yes
+4.166666666666667,4.333333333333333,3.5,4.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Neither satisfied nor dissatisfied,No
+4.0,4.0,4.0,1.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Dissatisfied,Yes
+5.0,5.0,4.5,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Dissatisfied,No
+3.6666666666666665,4.0,3.5,4.0,Male,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Human Resource Management,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.6666666666666665,2.75,3.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.333333333333333,4.0,2.25,4.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Neither satisfied nor dissatisfied,No
+4.0,4.0,3.0,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.0,4.333333333333333,3.5,2.5,Female,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,No
+4.5,3.6666666666666665,2.5,3.5,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.8333333333333335,5.0,3.5,2.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+4.333333333333333,3.6666666666666665,2.75,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.166666666666667,4.666666666666667,2.75,3.5,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Marketing,Very satisfied,No
+4.5,5.0,2.75,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.333333333333333,4.0,2.25,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+4.0,4.666666666666667,3.5,3.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,5.0,2.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,5.0,3.0,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.5,4.0,2.5,3.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.666666666666667,3.0,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.8333333333333335,4.666666666666667,3.25,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,No
+4.166666666666667,4.666666666666667,3.25,3.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.5,4.0,3.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,No
+3.8333333333333335,3.6666666666666665,2.5,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+3.6666666666666665,4.333333333333333,3.75,2.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+4.5,4.666666666666667,3.0,3.0,Male,Single,Year 4,Never,26 and above,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+3.6666666666666665,4.333333333333333,3.0,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.6666666666666665,4.0,2.5,2.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+3.6666666666666665,4.666666666666667,2.75,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Dissatisfied,Yes
+3.6666666666666665,4.0,3.25,3.0,Male,Married,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.6666666666666665,4.0,3.5,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.6666666666666665,5.0,3.5,3.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,4.666666666666667,2.75,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,4.666666666666667,2.5,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Very satisfied,No
+3.6666666666666665,4.0,3.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+3.8333333333333335,5.0,3.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,4.666666666666667,3.5,1.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+3.8333333333333335,4.666666666666667,3.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.5,5.0,4.0,2.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Very satisfied,No
+3.3333333333333335,5.0,4.5,1.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.333333333333333,4.0,3.5,2.5,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.166666666666667,4.0,4.0,3.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+4.166666666666667,5.0,4.25,2.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.6666666666666665,2.0,3.25,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.75,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+4.0,5.0,4.25,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+4.5,4.333333333333333,3.5,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,5.0,2.75,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+3.3333333333333335,4.333333333333333,2.75,4.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.166666666666667,4.0,3.0,4.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,4.0,2.75,1.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.166666666666667,4.666666666666667,3.5,4.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,4.0,3.25,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,4.333333333333333,3.5,2.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.5,2.0,2.25,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.166666666666667,5.0,3.5,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,4.0,3.25,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.8333333333333335,4.0,3.0,4.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+3.8333333333333335,4.0,2.5,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.166666666666667,4.0,3.5,3.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+5.0,5.0,3.5,4.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Very satisfied,Yes
+4.5,4.0,3.5,4.5,Male,Single,Year 4,Three or more times,26 and above,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.666666666666667,3.0,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,No
+4.0,4.0,3.25,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.166666666666667,4.666666666666667,3.5,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.0,2.75,4.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.166666666666667,4.0,3.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.333333333333333,4.333333333333333,3.25,4.0,Male,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.3333333333333335,3.25,4.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,3.6666666666666665,3.5,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.833333333333333,4.333333333333333,3.5,4.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.5,5.0,3.0,3.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,3.6666666666666665,3.5,3.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.3333333333333335,3.0,2.75,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,3.3333333333333335,3.0,2.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.0,3.75,2.5,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,No
+4.333333333333333,5.0,3.5,4.0,Female,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+4.333333333333333,4.0,4.0,3.0,Male,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+4.333333333333333,4.666666666666667,3.0,4.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,No
+4.333333333333333,4.0,3.25,3.0,Male,Married,Year 4,Three or more times,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,3.0,2.75,3.0,Female,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+4.0,4.333333333333333,3.25,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+4.833333333333333,5.0,3.75,4.5,Female,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,No
+4.166666666666667,4.0,3.0,3.5,Male,Single,Year 4,Three or more times,26 and above,B.B.A. (Hons) in Finance,Satisfied,No
+4.0,3.6666666666666665,3.0,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+4.166666666666667,3.3333333333333335,3.25,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,No
+3.8333333333333335,4.0,3.0,3.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,No
+4.5,4.0,3.5,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.666666666666667,4.666666666666667,3.25,3.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Finance,Satisfied,No
+4.5,4.333333333333333,3.5,5.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.8333333333333335,4.0,2.75,4.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,No
+4.333333333333333,5.0,3.75,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,4.666666666666667,3.25,1.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.3333333333333335,3.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.166666666666667,4.666666666666667,3.0,4.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Marketing,Dissatisfied,Yes
+3.3333333333333335,3.6666666666666665,3.5,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.833333333333333,4.333333333333333,3.5,5.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+4.0,3.3333333333333335,3.75,3.0,Male,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+2.6666666666666665,1.6666666666666667,2.25,2.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+4.5,4.666666666666667,3.25,5.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,3.3333333333333335,2.75,2.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+5.0,5.0,3.75,4.0,Female,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Marketing,Dissatisfied,No
+4.166666666666667,3.3333333333333335,3.25,4.0,Male,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,No
+4.833333333333333,4.666666666666667,3.25,5.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,3.6666666666666665,2.0,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,4.0,3.0,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.5,5.0,3.25,4.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.5,3.0,3.25,3.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.0,3.5,4.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.5,3.3333333333333335,3.75,3.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+2.6666666666666665,2.0,2.75,2.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+4.666666666666667,4.666666666666667,3.5,5.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,3.0,2.5,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+5.0,5.0,4.0,5.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Dissatisfied,Yes
+2.8333333333333335,2.3333333333333335,2.5,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+5.0,5.0,3.75,5.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+2.8333333333333335,2.6666666666666665,2.75,4.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.5,4.333333333333333,3.5,5.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,No
+3.6666666666666665,3.0,2.75,2.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+5.0,5.0,3.75,4.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Very dissatisfied,Yes
+5.0,4.0,3.5,5.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Dissatisfied,Yes
+4.666666666666667,5.0,3.5,5.0,Male,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+5.0,4.666666666666667,3.5,5.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+2.5,2.0,2.5,2.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+2.0,2.0,2.75,1.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+5.0,5.0,3.5,5.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+5.0,5.0,3.75,5.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+2.3333333333333335,1.6666666666666667,3.0,1.5,Female,Married,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,No
+5.0,5.0,3.0,5.0,Male,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+5.0,4.666666666666667,3.75,5.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Dissatisfied,Yes
+5.0,4.333333333333333,3.75,5.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+4.666666666666667,4.0,3.25,4.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.833333333333333,4.333333333333333,3.5,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+4.5,4.666666666666667,3.5,4.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.833333333333333,4.0,3.5,5.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,3.3333333333333335,3.25,2.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+5.0,4.666666666666667,3.5,5.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,2.3333333333333335,2.0,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.6666666666666665,4.0,2.25,2.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.0,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,No
+2.3333333333333335,3.3333333333333335,3.25,2.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+4.0,4.333333333333333,2.75,4.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.5,3.6666666666666665,2.5,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.6666666666666665,2.75,2.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.5,3.0,2.0,2.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Marketing,Satisfied,No
+3.5,3.3333333333333335,2.25,2.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.5,3.3333333333333335,3.0,2.5,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+2.8333333333333335,3.3333333333333335,2.5,4.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,No
+4.0,3.6666666666666665,2.75,3.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,No
+3.8333333333333335,2.3333333333333335,2.5,3.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.5,3.6666666666666665,3.0,3.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+2.6666666666666665,2.0,1.0,2.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.0,1.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.1666666666666665,4.0,2.5,1.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.0,3.0,1.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,3.0,2.5,1.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in International Business,Satisfied,No
+3.6666666666666665,2.6666666666666665,3.5,1.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.833333333333333,5.0,4.25,4.0,Male,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in International Business,Satisfied,No
+3.8333333333333335,4.0,3.5,1.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,4.0,3.5,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,No
+3.8333333333333335,4.0,3.25,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.25,1.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+2.6666666666666665,1.3333333333333333,2.5,1.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.333333333333333,4.0,3.5,1.5,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.333333333333333,4.333333333333333,1.75,4.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.0,2.3333333333333335,2.25,2.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,4.0,3.0,1.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,4.666666666666667,3.25,1.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.833333333333333,4.333333333333333,3.0,1.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,4.0,2.5,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,5.0,3.25,3.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.166666666666667,4.0,3.25,2.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,No
+4.833333333333333,4.333333333333333,3.5,2.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.333333333333333,4.333333333333333,2.5,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+5.0,4.0,3.25,3.0,Female,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+3.0,3.3333333333333335,2.5,1.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+2.6666666666666665,4.0,2.0,1.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Neither satisfied nor dissatisfied,Yes
+2.6666666666666665,2.0,2.5,1.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+2.8333333333333335,4.0,3.25,1.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+2.6666666666666665,2.6666666666666665,2.75,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+4.0,3.6666666666666665,2.5,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+2.8333333333333335,2.3333333333333335,2.5,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.666666666666667,4.0,3.25,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,4.0,3.5,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,No
+4.0,4.0,3.5,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+5.0,5.0,3.25,5.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.0,4.0,4.0,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,No
+5.0,5.0,2.75,5.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.666666666666667,4.333333333333333,2.5,4.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,No
+4.0,4.0,2.75,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.0,4.0,4.0,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.5,5.0,1.5,5.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Dissatisfied,Yes
+2.0,2.6666666666666665,3.25,5.0,Female,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Business Economics,Dissatisfied,Yes
+5.0,2.3333333333333335,1.75,5.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+2.5,3.3333333333333335,3.0,3.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Dissatisfied,No
+4.0,4.0,3.5,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Accounting,Very dissatisfied,Yes
+3.8333333333333335,3.3333333333333335,3.0,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.166666666666667,4.666666666666667,3.5,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,No
+4.166666666666667,5.0,3.75,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.0,3.0,2.75,3.0,Male,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.0,4.333333333333333,3.5,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.0,4.666666666666667,3.0,5.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.5,5.0,3.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.5,4.666666666666667,3.0,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,4.333333333333333,3.0,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.333333333333333,4.333333333333333,2.75,4.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,No
+4.333333333333333,4.0,2.75,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.0,3.3333333333333335,3.5,1.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Dissatisfied,No
+4.0,2.0,3.25,4.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,No
+4.0,3.0,2.75,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.1666666666666665,4.666666666666667,2.5,3.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,4.333333333333333,1.75,4.0,Male,Married,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.333333333333333,3.6666666666666665,2.75,3.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.166666666666667,4.0,3.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.5,4.333333333333333,2.5,1.5,Female,Single,Year 1,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.0,3.5,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Very satisfied,Yes
+3.6666666666666665,4.0,3.25,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,4.0,3.25,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.833333333333333,5.0,3.75,5.0,Male,Single,Year 4,Never,26 and above,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,5.0,2.75,3.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,2.25,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.0,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.0,4.0,3.25,3.0,Male,Married,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Dissatisfied,Yes
+4.0,4.0,2.0,4.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.75,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.8333333333333335,4.333333333333333,3.25,4.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,4.666666666666667,3.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,4.333333333333333,3.5,4.0,Male,Married,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,4.0,2.75,3.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,1.6666666666666667,2.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.333333333333333,3.6666666666666665,2.75,3.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,4.0,3.0,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.5,4.666666666666667,2.5,4.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Dissatisfied,Yes
+4.0,3.0,3.0,3.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,3.0,2.5,3.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.75,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Very satisfied,Yes
+4.166666666666667,4.333333333333333,2.75,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,4.0,2.25,4.5,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,2.0,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.6666666666666665,4.0,2.5,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.0,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Very satisfied,No
+4.0,4.0,3.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.75,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.0,4.0,2.5,3.0,Female,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,4.0,3.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.0,3.0,2.5,3.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+3.5,2.6666666666666665,2.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+4.0,2.0,2.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.666666666666667,3.6666666666666665,2.0,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in Accounting,Very satisfied,Yes
+3.3333333333333335,4.0,3.5,3.0,Male,Married,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+2.6666666666666665,2.6666666666666665,2.5,1.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,3.0,2.75,1.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,4.0,3.0,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.0,3.0,1.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,3.6666666666666665,3.75,1.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,3.3333333333333335,3.0,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,3.5,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,3.6666666666666665,3.25,2.5,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,1.6666666666666667,3.0,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.25,2.0,Male,Single,Year 4,Three or more times,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,No
+3.8333333333333335,3.3333333333333335,3.0,4.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Very satisfied,No
+3.6666666666666665,3.6666666666666665,3.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,4.0,3.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,3.3333333333333335,2.75,2.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.5,3.6666666666666665,3.0,1.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,3.0,3.25,2.0,Male,Married,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,2.6666666666666665,2.25,2.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,No
+3.5,2.6666666666666665,2.75,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.25,3.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+4.0,3.6666666666666665,3.0,2.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,3.25,3.0,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.5,3.3333333333333335,2.75,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,4.333333333333333,3.25,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+4.0,4.0,2.5,3.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Very satisfied,Yes
+3.8333333333333335,3.3333333333333335,2.75,3.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,2.5,3.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,4.0,2.75,4.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,4.0,2.5,2.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.0,3.3333333333333335,2.5,4.0,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+4.833333333333333,4.0,3.25,2.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+4.0,3.6666666666666665,3.0,2.5,Female,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+4.666666666666667,3.6666666666666665,3.75,4.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,4.0,3.0,1.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,4.0,3.25,3.0,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,4.0,2.25,2.5,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,4.0,2.0,4.5,Male,Single,Year 3,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+5.0,4.0,3.25,2.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.0,2.5,Male,Single,Year 4,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+5.0,3.6666666666666665,3.25,2.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,3.6666666666666665,2.0,4.0,Female,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.75,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.1666666666666665,4.0,2.0,1.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.6666666666666665,2.0,3.25,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,2.5,2.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.1666666666666665,2.3333333333333335,2.5,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,3.3333333333333335,2.25,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.166666666666667,4.0,2.5,1.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+3.5,3.0,2.75,4.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.5,3.0,2.75,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.5,3.6666666666666665,3.0,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.0,1.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.5,3.6666666666666665,2.75,2.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.6666666666666665,3.0,2.75,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Neither satisfied nor dissatisfied,No
+3.5,3.3333333333333335,2.5,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.1666666666666665,3.0,2.5,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Very satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.25,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.5,3.0,3.0,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.0,4.0,2.5,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.6666666666666665,2.3333333333333335,2.75,1.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.5,3.3333333333333335,2.75,2.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.0,3.6666666666666665,2.5,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.5,2.6666666666666665,2.25,4.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.25,3.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.166666666666667,4.0,2.5,1.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.75,2.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.0,3.6666666666666665,4.0,4.0,Male,Single,Year 2,Three or more times,22-23,,Dissatisfied,No
+4.0,4.0,3.0,1.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.0,4.0,2.5,4.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.166666666666667,4.333333333333333,3.75,4.0,Female,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,No
+4.0,4.0,2.25,2.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.5,3.3333333333333335,2.0,3.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.0,3.0,2.75,4.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.0,3.3333333333333335,3.0,2.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.5,3.3333333333333335,2.5,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,2.3333333333333335,2.25,3.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,3.0,2.0,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,4.0,2.5,2.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.5,4.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.0,4.0,2.0,3.5,Female,Single,Year 2,Never,22-23,,Very satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.5,4.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.5,3.3333333333333335,2.25,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.0,4.0,2.0,3.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.166666666666667,3.6666666666666665,4.0,4.0,Male,Single,Year 2,Once or twice,22-23,,Dissatisfied,No
+3.6666666666666665,4.0,3.75,4.5,Female,Single,Year 2,Three or more times,22-23,,Dissatisfied,Yes
+4.0,3.6666666666666665,3.5,4.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,4.0,1.75,4.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,4.0,3.0,4.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,2.75,4.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,3.0,4.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.0,3.0,2.75,4.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.0,3.3333333333333335,3.75,4.0,Male,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,2.6666666666666665,2.5,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.25,4.0,Male,Single,Year 2,Never,20-21,,Very satisfied,Yes
+3.3333333333333335,3.0,2.25,4.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.0,4.0,2.5,2.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.0,3.6666666666666665,3.0,4.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.0,4.0,2.5,2.0,Female,Single,Year 2,Never,22-23,,Very satisfied,Yes
+3.8333333333333335,4.0,2.5,2.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.0,4.0,3.0,2.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.5,3.6666666666666665,3.25,2.0,Male,Single,Year 2,Once or twice,20-21,,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.5,2.5,Male,Single,Year 2,Once or twice,20-21,,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,3.0,4.0,Female,Single,Year 2,Once or twice,22-23,,Very satisfied,Yes
+3.5,3.0,3.0,2.0,Male,Single,Year 2,Once or twice,24-25,,Satisfied,Yes
+3.5,3.0,2.75,1.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,3.25,2.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.25,1.5,Male,Single,Year 2,Once or twice,20-21,,Satisfied,Yes
+4.0,3.0,3.0,3.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.8333333333333335,4.0,2.75,2.0,Male,Married,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.6666666666666665,2.5,2.5,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.5,3.0,3.0,2.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,No
+3.8333333333333335,3.6666666666666665,3.5,2.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.6666666666666665,3.0,3.5,2.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.1666666666666665,4.0,3.0,3.0,Male,Married,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.5,1.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,No
+4.0,5.0,1.5,4.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.833333333333333,4.0,3.5,4.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in International Business,Dissatisfied,No
+3.0,2.6666666666666665,3.5,3.5,Male,Single,Year 4,Three or more times,22-23,B.B.A. (Hons) in Business Administration,Very dissatisfied,Yes
+4.333333333333333,3.0,2.75,2.5,Male,Single,Year 2,Once or twice,20-21,,Satisfied,Yes
+2.8333333333333335,2.0,2.5,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+4.333333333333333,4.666666666666667,2.5,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.833333333333333,4.666666666666667,3.75,5.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+4.166666666666667,4.333333333333333,3.0,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+3.0,3.0,2.75,1.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+3.6666666666666665,3.0,2.75,1.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.1666666666666665,4.0,3.5,1.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+5.0,4.333333333333333,2.5,5.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,2.3333333333333335,3.25,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.8333333333333335,4.0,3.0,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.1666666666666665,2.3333333333333335,2.5,1.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.5,3.6666666666666665,3.25,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.0,3.25,1.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+5.0,4.0,3.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+5.0,5.0,4.0,5.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,2.0,2.5,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Very satisfied,Yes
+5.0,5.0,1.75,5.0,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in Finance,Dissatisfied,Yes
+5.0,4.333333333333333,3.25,5.0,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in Finance,Dissatisfied,Yes
+5.0,5.0,2.0,5.0,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in Finance,Very dissatisfied,Yes
+4.5,3.6666666666666665,1.5,4.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.833333333333333,4.666666666666667,3.75,5.0,Male,Single,Year 3,Three or more times,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,No
+4.666666666666667,5.0,5.0,5.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Dissatisfied,No
+4.0,4.0,3.5,3.5,Female,Married,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,4.0,3.25,4.0,Female,Single,Year 3,Three or more times,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,No
+4.166666666666667,3.6666666666666665,4.0,4.0,Male,Single,Year 3,Three or more times,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,No
+3.6666666666666665,2.0,3.25,1.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,3.0,1.0,Male,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+4.0,3.6666666666666665,3.5,1.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.75,1.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,2.6666666666666665,2.25,1.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.5,3.6666666666666665,3.0,2.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.6666666666666665,1.3333333333333333,2.0,4.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.6666666666666665,2.3333333333333335,2.75,3.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,3.3333333333333335,2.75,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.1666666666666665,4.0,2.5,1.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.666666666666667,4.0,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,4.333333333333333,3.25,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,No
+3.8333333333333335,4.333333333333333,2.25,3.0,Male,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+4.333333333333333,1.6666666666666667,1.0,1.5,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+2.5,2.0,2.25,3.5,Female,Single,Year 1,Never,20-21,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.5,3.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+2.3333333333333335,2.0,1.75,2.5,Female,Single,Year 2,Never,20-21,,Very satisfied,Yes
+1.8333333333333333,2.0,1.0,2.0,Male,Single,Year 2,Never,22-23,,Very satisfied,Yes
+3.5,3.0,3.0,3.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.6666666666666665,3.0,2.0,3.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,4.0,2.25,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.0,3.0,3.0,2.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.333333333333333,3.0,3.0,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.3333333333333335,2.25,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,3.0,3.0,2.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.6666666666666665,1.3333333333333333,2.75,4.0,Female,Single,Year 2,Once or twice,20-21,,Satisfied,Yes
+4.166666666666667,3.3333333333333335,1.75,3.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.0,3.3333333333333335,2.5,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.0,3.3333333333333335,2.25,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,3.0,3.0,2.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.3333333333333335,4.333333333333333,2.0,2.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.8333333333333335,2.6666666666666665,2.0,1.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.666666666666667,4.666666666666667,2.75,1.5,Female,Single,Year 2,Never,22-23,,Very dissatisfied,Yes
+4.166666666666667,4.0,2.0,4.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.1666666666666665,3.0,2.25,2.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.25,3.5,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.0,3.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.0,3.0,2.75,2.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.6666666666666665,2.25,3.5,Female,Single,Year 2,Never,22-23,,Dissatisfied,Yes
+3.3333333333333335,2.3333333333333335,3.0,2.0,Male,Single,Year 2,Once or twice,22-23,,Dissatisfied,Yes
+3.5,3.3333333333333335,2.5,2.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,No
+3.3333333333333335,3.3333333333333335,2.75,3.5,Female,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+2.6666666666666665,2.3333333333333335,2.5,2.0,Male,Single,Year 1,Once or twice,22-23,,Very dissatisfied,Yes
+3.0,3.0,1.5,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+2.6666666666666665,3.0,2.25,2.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.6666666666666665,2.6666666666666665,2.25,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,No
+2.5,2.3333333333333335,4.0,3.0,Female,Single,Year 2,Never,22-23,,Dissatisfied,Yes
+3.5,3.6666666666666665,2.25,2.5,Male,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,3.0,2.5,3.0,Male,Single,Year 2,Never,22-23,,Very satisfied,Yes
+3.3333333333333335,3.0,2.5,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,3.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.0,2.0,3.0,4.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,3.0,3.0,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.25,3.5,Female,Single,Year 2,Never,22-23,,Very satisfied,No
+3.0,3.0,3.0,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.0,3.6666666666666665,2.25,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.1666666666666665,3.0,2.75,2.5,Female,Single,Year 2,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,4.333333333333333,2.75,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,1.75,1.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.0,2.25,2.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,3.0,3.0,2.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.666666666666667,5.0,1.75,1.5,Female,Single,Year 2,Never,20-21,,Dissatisfied,Yes
+3.1666666666666665,3.3333333333333335,2.25,3.0,Male,Single,Year 2,Never,22-23,,Dissatisfied,Yes
+3.0,3.0,2.75,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.3333333333333335,3.0,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.8333333333333335,3.3333333333333335,3.25,2.5,Female,Single,Year 2,Once or twice,22-23,,Satisfied,No
+3.3333333333333335,3.0,3.0,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,3.0,3.0,1.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+1.0,2.3333333333333335,2.0,1.0,Male,Single,Year 2,Never,20-21,,Dissatisfied,Yes
+3.6666666666666665,3.6666666666666665,2.75,3.0,Male,Single,Year 1,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.0,2.75,2.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.5,3.6666666666666665,1.75,3.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.666666666666667,3.25,3.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.0,2.75,2.0,Female,Single,Year 2,Never,20-21,,Dissatisfied,Yes
+3.0,3.0,3.0,2.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.0,1.3333333333333333,2.25,3.0,Male,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.0,4.0,2.25,3.5,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.1666666666666665,3.0,1.75,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.1666666666666665,3.0,2.0,2.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.0,3.0,1.5,2.5,Female,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+4.0,3.0,3.0,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,No
+3.0,3.0,2.25,4.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,2.6666666666666665,2.25,2.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.0,2.75,2.5,Female,Single,Year 2,Never,20-21,,Very satisfied,Yes
+3.6666666666666665,4.0,1.75,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,No
+3.0,3.0,2.75,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.5,3.6666666666666665,2.25,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.8333333333333335,3.0,2.0,2.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,3.0,3.0,2.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,2.5,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.5,3.0,Female,Single,Year 2,Never,20-21,,Neither satisfied nor dissatisfied,Yes
+5.0,3.0,2.25,3.0,Male,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.5,3.0,1.5,2.5,Female,Single,Year 2,Never,22-23,,Satisfied,No
+3.1666666666666665,2.3333333333333335,2.0,2.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.166666666666667,4.0,2.0,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,2.6666666666666665,3.25,3.5,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,2.6666666666666665,2.25,1.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+5.0,2.6666666666666665,3.25,2.0,Female,Single,Year 2,Never,20-21,,Dissatisfied,Yes
+3.0,3.0,2.25,2.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.166666666666667,3.0,3.25,2.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.25,3.5,Female,Single,Year 2,Once or twice,22-23,,Very satisfied,Yes
+4.0,3.6666666666666665,1.75,3.5,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,1.5,2.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,2.25,2.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+2.6666666666666665,2.6666666666666665,2.75,2.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.6666666666666665,2.0,2.0,2.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.6666666666666665,2.3333333333333335,1.5,2.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.0,2.5,Male,Single,Year 2,Three or more times,20-21,,Dissatisfied,No
+2.8333333333333335,3.0,3.0,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,No
+3.6666666666666665,3.0,2.5,2.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.166666666666667,2.6666666666666665,3.25,4.0,Male,Single,Year 2,Never,22-23,,Dissatisfied,Yes
+2.8333333333333335,4.0,2.75,3.5,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.5,3.0,2.75,2.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,4.0,1.75,4.0,Female,Single,Year 2,Once or twice,20-21,,Very satisfied,Yes
+3.5,3.3333333333333335,2.75,1.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+4.0,2.0,2.5,3.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.6666666666666665,4.0,3.0,1.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,No
+3.8333333333333335,3.6666666666666665,2.5,2.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.166666666666667,2.6666666666666665,2.75,2.5,Male,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+3.0,2.6666666666666665,3.5,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,4.0,2.75,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,No
+3.8333333333333335,4.333333333333333,1.75,5.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+3.3333333333333335,2.6666666666666665,1.75,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.8333333333333335,3.0,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+2.8333333333333335,2.0,2.0,3.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.0,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Very satisfied,No
+3.8333333333333335,2.3333333333333335,1.5,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.166666666666667,4.333333333333333,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.0,4.25,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.5,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+2.6666666666666665,3.3333333333333335,3.25,1.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+2.6666666666666665,3.0,1.5,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+4.333333333333333,3.0,2.5,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,3.0,Male,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.666666666666667,4.333333333333333,3.25,2.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Dissatisfied,Yes
+3.5,3.0,3.0,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Very satisfied,No
+3.0,3.0,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+2.3333333333333335,3.0,4.0,3.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+4.0,3.6666666666666665,2.5,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+4.0,2.6666666666666665,2.75,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.1666666666666665,3.0,2.75,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.0,3.6666666666666665,3.25,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Dissatisfied,Yes
+2.8333333333333335,3.6666666666666665,2.25,2.5,Female,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+2.8333333333333335,2.3333333333333335,3.25,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.1666666666666665,4.666666666666667,1.75,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+2.6666666666666665,2.3333333333333335,1.5,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.0,3.3333333333333335,3.0,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.3333333333333335,3.0,3.25,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.0,3.0,3.0,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.5,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Dissatisfied,Yes
+4.166666666666667,3.0,1.75,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,3.0,2.25,4.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Very dissatisfied,Yes
+3.5,2.6666666666666665,2.0,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,3.0,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.3333333333333335,1.75,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.0,3.3333333333333335,2.5,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.166666666666667,3.3333333333333335,2.75,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.8333333333333335,3.0,2.25,3.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,No
+4.333333333333333,4.333333333333333,2.5,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.5,3.3333333333333335,3.25,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,1.75,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,No
+2.8333333333333335,2.6666666666666665,2.0,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+2.6666666666666665,2.3333333333333335,2.0,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Very satisfied,No
+3.0,3.0,2.0,2.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.1666666666666665,3.0,1.75,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+4.166666666666667,3.3333333333333335,2.25,2.5,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.3333333333333335,3.0,2.0,Male,Single,Year 3,Three or more times,24-25,B.B.A. (Hons) in Marketing,Satisfied,Yes
+2.8333333333333335,2.6666666666666665,1.75,1.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.1666666666666665,3.0,3.0,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,3.25,2.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+5.0,3.0,2.0,4.0,Male,Married,Year 2,Three or more times,22-23,,Very dissatisfied,No
+3.3333333333333335,4.0,1.25,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,4.666666666666667,3.75,3.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,1.75,4.0,Male,Single,Year 3,Never,24-25,B.B.A. (Hons) in Marketing,Very satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.25,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Marketing,Satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,3.0,3.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.0,2.3333333333333335,3.25,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.5,5.0,4.5,2.0,Male,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,No
+3.5,3.6666666666666665,2.75,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.6666666666666665,3.0,2.5,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.6666666666666665,4.0,3.25,2.5,Male,Married,Year 2,Once or twice,22-23,,Very satisfied,Yes
+3.0,3.0,3.0,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Hospitality and Leisure Management,Satisfied,Yes
+3.6666666666666665,3.0,2.25,1.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,2.0,2.25,2.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.0,1.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.5,4.0,2.75,2.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.6666666666666665,4.333333333333333,4.0,1.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.0,3.3333333333333335,2.5,1.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+1.5,1.0,1.5,1.0,Male,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.0,2.25,3.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.0,3.0,3.0,4.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,2.6666666666666665,3.0,1.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,4.0,2.75,2.5,Male,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Accounting,Very satisfied,No
+3.6666666666666665,3.3333333333333335,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,2.3333333333333335,2.5,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,4.0,3.0,1.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,4.0,4.25,3.0,Male,Single,Year 3,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,4.0,2.75,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.3333333333333335,1.6666666666666667,2.5,2.0,Male,Single,Year 3,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,4.0,3.25,1.0,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,3.0,4.0,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.3333333333333335,4.0,3.25,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Accounting,Satisfied,No
+3.5,1.6666666666666667,3.25,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.166666666666667,4.0,3.0,1.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,4.0,3.25,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+2.8333333333333335,1.0,2.5,1.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,4.0,3.5,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.166666666666667,5.0,4.5,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.666666666666667,4.333333333333333,2.5,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.5,3.0,3.25,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.75,2.5,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,No
+4.0,2.6666666666666665,3.25,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,4.0,2.75,2.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.5,3.0,2.5,1.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,4.0,3.0,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.0,1.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.166666666666667,4.0,3.0,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.0,3.3333333333333335,3.5,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,2.6666666666666665,2.5,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.75,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.6666666666666665,4.0,3.0,2.5,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in Accounting,Satisfied,No
+4.166666666666667,3.6666666666666665,3.75,3.5,Male,Single,Year 3,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.5,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,3.3333333333333335,3.75,1.5,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,4.0,3.75,4.5,Female,Married,Year 3,Once or twice,26 and above,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.0,3.0,1.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.5,1.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,3.6666666666666665,2.5,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.333333333333333,4.0,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.0,3.5,3.0,Male,Single,Year 3,Never,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,4.0,3.5,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+4.166666666666667,4.0,2.25,3.5,Female,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,4.0,3.0,5.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,4.0,2.75,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.0,3.25,3.0,Female,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,3.0,2.75,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,2.6666666666666665,3.25,3.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+2.6666666666666665,4.0,4.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,2.6666666666666665,3.0,2.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.3333333333333335,3.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.3333333333333335,3.5,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,4.0,3.0,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,3.0,3.0,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,2.75,4.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.75,3.5,Female,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.0,3.0,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+2.5,2.0,3.75,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.0,3.0,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.5,2.5,Male,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in International Business,Dissatisfied,Yes
+3.3333333333333335,3.6666666666666665,3.5,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,5.0,4.25,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,4.0,3.5,2.0,Female,Single,Year 3,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.166666666666667,4.0,4.0,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.5,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,4.0,1.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,4.0,3.5,1.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,3.3333333333333335,3.0,2.5,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,3.5,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.5,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.0,4.0,3.5,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.25,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,3.6666666666666665,3.5,1.5,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,4.0,3.25,1.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,4.0,3.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.75,2.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.5,1.5,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,3.25,1.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,4.0,2.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,4.0,3.5,1.5,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.75,2.0,Female,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,3.5,3.0,Female,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,3.6666666666666665,3.75,1.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,2.6666666666666665,4.0,1.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,3.75,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.0,3.6666666666666665,3.5,1.0,Female,Single,Year 3,Three or more times,24-25,B.B.A. (Hons) in International Business,Satisfied,No
+3.3333333333333335,3.3333333333333335,3.25,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Dissatisfied,No
+3.3333333333333335,3.6666666666666665,2.75,2.5,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.5,3.3333333333333335,3.0,2.0,Male,Married,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+2.3333333333333335,3.3333333333333335,3.25,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.5,1.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.5,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.0,3.6666666666666665,3.25,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,3.75,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.1666666666666665,3.0,3.0,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.166666666666667,4.0,3.0,2.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.1666666666666665,3.0,2.75,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.666666666666667,4.0,3.0,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.5,3.6666666666666665,3.0,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+3.5,3.0,3.25,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.666666666666667,4.333333333333333,3.0,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.0,2.75,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+4.666666666666667,4.333333333333333,3.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+3.5,3.0,3.25,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,3.25,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.5,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.5,3.0,3.5,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.5,4.0,3.0,4.0,Male,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,3.0,2.75,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.0,3.0,2.75,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,3.0,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+4.833333333333333,4.333333333333333,2.0,5.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.5,2.6666666666666665,2.5,2.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,3.0,3.0,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.0,3.3333333333333335,3.0,1.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+2.8333333333333335,3.0,3.5,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.3333333333333335,3.0,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.25,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.8333333333333335,4.0,2.0,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+4.5,4.333333333333333,3.0,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+5.0,5.0,2.75,3.5,Male,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.333333333333333,3.6666666666666665,3.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+5.0,4.0,3.0,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,No
+3.6666666666666665,5.0,1.0,5.0,Male,Single,Year 1,Once or twice,20-21,,Very satisfied,Yes
+4.166666666666667,3.6666666666666665,2.0,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+4.0,3.6666666666666665,2.25,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.666666666666667,4.333333333333333,2.75,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,No
+5.0,5.0,3.0,3.0,Female,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Business Economics,Satisfied,No
+4.5,2.6666666666666665,2.75,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.166666666666667,4.333333333333333,2.0,2.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.3333333333333335,3.6666666666666665,3.0,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.666666666666667,3.6666666666666665,2.75,3.5,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+3.5,3.3333333333333335,3.25,1.5,Female,Single,Year 2,Once or twice,22-23,,Satisfied,No
+3.5,4.0,3.0,2.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.0,4.0,3.0,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.0,4.0,3.25,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+4.333333333333333,4.0,2.75,3.5,Male,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.0,3.6666666666666665,3.25,3.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.0,4.333333333333333,3.75,3.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.5,5.0,3.25,3.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.833333333333333,3.6666666666666665,2.0,5.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+5.0,4.333333333333333,3.5,3.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.166666666666667,4.333333333333333,2.75,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,No
+3.8333333333333335,4.0,3.5,3.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.5,4.0,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.166666666666667,4.333333333333333,2.75,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.8333333333333335,4.0,3.25,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.166666666666667,4.333333333333333,2.75,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.5,3.3333333333333335,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.5,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.166666666666667,4.333333333333333,2.5,5.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+4.0,3.3333333333333335,3.0,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.166666666666667,4.0,3.0,4.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,No
+4.166666666666667,4.333333333333333,2.25,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+4.0,3.6666666666666665,3.25,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.333333333333333,5.0,3.0,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+5.0,4.333333333333333,3.0,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+3.8333333333333335,4.0,3.5,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,2.3333333333333335,2.75,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.5,3.0,2.75,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.3333333333333335,3.0,3.0,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.833333333333333,4.0,3.25,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Very satisfied,Yes
+3.6666666666666665,4.0,3.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,2.6666666666666665,2.75,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+5.0,4.333333333333333,3.25,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,4.0,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.1666666666666665,3.0,3.0,2.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.5,4.0,2.75,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+3.0,3.3333333333333335,3.0,2.5,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.3333333333333335,2.0,2.75,2.0,Female,Married,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+4.666666666666667,3.6666666666666665,2.25,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+3.5,3.0,2.5,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Neither satisfied nor dissatisfied,Yes
+4.166666666666667,4.0,3.0,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,No
+3.3333333333333335,3.0,2.75,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,2.6666666666666665,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.5,2.6666666666666665,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,3.3333333333333335,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Very satisfied,Yes
+3.5,3.3333333333333335,3.0,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,4.0,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,2.75,3.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,3.0,2.75,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+5.0,4.333333333333333,3.25,5.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.0,3.0,2.5,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.0,2.6666666666666665,2.75,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Accounting,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,2.75,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,2.5,3.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+2.8333333333333335,3.3333333333333335,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.25,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.6666666666666665,3.6666666666666665,2.75,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,3.3333333333333335,2.75,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,2.5,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+5.0,4.0,3.25,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.1666666666666665,3.6666666666666665,3.0,2.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.166666666666667,4.0,3.25,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.0,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+3.5,2.3333333333333335,2.5,3.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.666666666666667,4.0,2.75,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.3333333333333335,2.6666666666666665,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.666666666666667,4.0,3.25,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+5.0,3.3333333333333335,3.25,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,2.5,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.833333333333333,4.0,2.75,5.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.1666666666666665,3.3333333333333335,2.75,3.0,Female,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+5.0,4.0,3.5,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,3.0,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+5.0,4.0,3.25,4.0,Male,Single,Year 3,Three or more times,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,2.6666666666666665,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,3.3333333333333335,2.75,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Very satisfied,Yes
+4.666666666666667,3.3333333333333335,3.0,5.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+3.6666666666666665,4.0,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.8333333333333335,3.6666666666666665,2.75,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.166666666666667,3.6666666666666665,2.5,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.3333333333333335,3.0,2.75,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,3.6666666666666665,3.0,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.3333333333333335,2.75,2.5,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.333333333333333,4.0,2.75,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,No
+3.5,3.6666666666666665,2.75,3.5,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.3333333333333335,3.0,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,2.75,3.5,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.5,4.0,3.25,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,2.75,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.0,4.0,3.0,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+4.5,4.0,3.25,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+5.0,3.0,3.25,5.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.833333333333333,4.0,1.75,5.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.5,3.6666666666666665,3.0,2.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,3.0,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.5,3.6666666666666665,3.0,4.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.6666666666666665,3.3333333333333335,2.75,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,2.0,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+5.0,4.333333333333333,2.75,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,No
+3.3333333333333335,3.6666666666666665,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+4.666666666666667,4.0,3.25,5.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,3.0,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.6666666666666665,4.0,2.75,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.8333333333333335,4.333333333333333,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.6666666666666665,2.5,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.1666666666666665,3.3333333333333335,3.0,2.5,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.6666666666666665,3.0,2.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.5,3.3333333333333335,2.75,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.0,3.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+5.0,3.3333333333333335,3.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Very satisfied,Yes
+3.0,2.0,2.0,1.5,Male,Single,Year 4,Once or twice,24-25,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+2.6666666666666665,2.0,2.5,2.0,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+4.333333333333333,4.333333333333333,3.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+3.0,3.6666666666666665,3.5,2.0,Male,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+2.8333333333333335,3.0,3.5,2.0,Female,Single,Year 4,Once or twice,22-23,B.B.A. (Hons) in Business Administration,Satisfied,Yes
+5.0,4.0,2.0,5.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Finance,Satisfied,Yes
+5.0,3.3333333333333335,2.5,4.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Very satisfied,No
+4.166666666666667,3.0,4.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Dissatisfied,Yes
+4.5,3.6666666666666665,2.75,4.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Finance,Neither satisfied nor dissatisfied,No
+4.333333333333333,4.333333333333333,3.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,No
+4.166666666666667,3.6666666666666665,3.25,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+5.0,4.666666666666667,3.25,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Very satisfied,No
+4.666666666666667,3.6666666666666665,3.25,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.333333333333333,4.333333333333333,3.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.0,4.0,3.5,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.166666666666667,4.0,3.25,3.5,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Neither satisfied nor dissatisfied,Yes
+5.0,3.3333333333333335,2.75,4.0,Male,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.5,4.0,3.25,3.5,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.666666666666667,4.0,2.5,4.0,Female,Single,Year 3,Once or twice,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+4.833333333333333,3.6666666666666665,2.5,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+2.8333333333333335,3.6666666666666665,2.0,4.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+3.0,2.6666666666666665,2.5,3.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Human Resource Management,Very satisfied,Yes
+1.8333333333333333,4.0,2.25,2.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Human Resource Management,Satisfied,Yes
+3.0,2.6666666666666665,1.75,3.0,Male,Single,Year 3,Never,22-23,B.B.A. (Hons) in Human Resource Management,Very satisfied,No
+2.1666666666666665,3.3333333333333335,3.25,2.0,Female,Single,Year 3,Never,22-23,B.B.A. (Hons) in Business Economics,Satisfied,Yes
+2.8333333333333335,3.3333333333333335,3.0,2.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,2.75,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,2.0,2.5,3.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.0,1.6666666666666667,2.75,2.5,Male,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+3.1666666666666665,3.0,3.5,2.5,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.3333333333333335,3.0,3.0,2.5,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.8333333333333335,3.3333333333333335,3.25,4.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.0,1.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.5,3.6666666666666665,3.25,1.5,Male,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+3.0,3.0,3.0,2.5,Female,Single,Year 2,Never,22-23,,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,4.666666666666667,2.25,2.5,Female,Married,Year 2,Never,22-23,,Satisfied,Yes
+5.0,5.0,5.0,3.0,Female,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+3.8333333333333335,2.0,2.75,1.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.6666666666666665,3.0,2.5,2.5,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+2.3333333333333335,3.0,1.75,1.5,Male,Single,Year 2,Never,24-25,,Satisfied,Yes
+3.5,5.0,1.0,1.5,Female,Single,Year 2,Never,22-23,,Very satisfied,Yes
+2.6666666666666665,3.0,1.0,2.5,Male,Single,Year 4,Never,24-25,B.B.A. (Hons) in Business Economics,Very satisfied,Yes
+3.3333333333333335,3.3333333333333335,3.0,2.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,3.3333333333333335,3.5,2.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+2.8333333333333335,2.6666666666666665,3.0,2.5,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+2.5,3.3333333333333335,2.75,1.0,Male,Single,Year 2,Never,22-23,,Satisfied,No
+3.5,3.3333333333333335,2.5,3.5,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.75,2.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.1666666666666665,2.6666666666666665,3.0,3.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+4.833333333333333,5.0,4.25,4.0,Female,Married,Year 3,Three or more times,24-25,B.B.A. (Hons) in International Business,Dissatisfied,No
+4.0,4.0,2.75,3.0,Male,Single,Year 3,Never,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,3.6666666666666665,4.0,4.0,Male,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Satisfied,Yes
+4.0,4.0,4.0,4.0,Female,Single,Year 3,Three or more times,24-25,B.B.A. (Hons) in International Business,Dissatisfied,No
+4.0,4.0,4.0,4.0,Female,Single,Year 3,Once or twice,24-25,B.B.A. (Hons) in International Business,Neither satisfied nor dissatisfied,Yes
+3.3333333333333335,2.6666666666666665,2.5,3.0,Female,Single,Year 2,Never,24-25,,Satisfied,Yes
+2.5,2.0,2.5,3.0,Female,Single,Year 2,Never,24-25,,Satisfied,Yes
+3.0,3.0,2.75,2.0,Male,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+2.8333333333333335,2.6666666666666665,2.75,2.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.5,2.6666666666666665,2.75,4.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,2.6666666666666665,2.75,3.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.5,2.6666666666666665,2.5,2.5,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.3333333333333335,3.0,2.75,2.0,Male,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,3.0,3.5,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.75,2.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.5,2.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+2.0,2.6666666666666665,2.0,2.5,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.0,2.6666666666666665,2.5,2.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.5,2.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.0,2.5,2.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.1666666666666665,2.6666666666666665,2.5,2.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+3.3333333333333335,2.6666666666666665,2.5,2.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.166666666666667,3.0,3.0,4.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,No
+4.333333333333333,3.3333333333333335,2.75,4.0,Male,Single,Year 2,Never,20-21,,Satisfied,Yes
+5.0,3.6666666666666665,3.0,4.0,Male,Single,Year 2,Never,20-21,,Satisfied,No
+3.5,2.6666666666666665,2.5,2.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+4.0,2.6666666666666665,2.25,3.0,Female,Single,Year 2,Never,20-21,,Satisfied,Yes
+5.0,5.0,3.0,5.0,Male,Single,Year 2,Once or twice,20-21,,Satisfied,No
+5.0,4.0,4.0,5.0,Male,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,No
+5.0,4.0,4.0,5.0,Female,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+5.0,4.0,4.0,5.0,Male,Single,Year 2,Three or more times,22-23,,Dissatisfied,No
+4.0,3.6666666666666665,3.75,4.0,Female,Single,Year 2,Once or twice,22-23,,Neither satisfied nor dissatisfied,Yes
+5.0,4.0,4.0,5.0,Male,Single,Year 2,Three or more times,22-23,,Very dissatisfied,No
+3.5,3.3333333333333335,3.0,3.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.0,3.3333333333333335,3.5,3.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.1666666666666665,3.0,3.25,2.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.0,4.0,3.25,3.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.8333333333333335,4.0,3.0,2.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
+3.6666666666666665,3.3333333333333335,3.0,2.0,Female,Single,Year 2,Never,22-23,,Satisfied,Yes
+3.6666666666666665,4.0,2.5,2.0,Female,Single,Year 2,Once or twice,22-23,,Satisfied,Yes
